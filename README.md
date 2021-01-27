@@ -1,1 +1,1 @@
-# ML-lab-programs
+# Short VTU-ML-lab-programs
